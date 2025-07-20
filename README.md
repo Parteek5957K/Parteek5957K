@@ -2,10 +2,10 @@
 
 Hi! I'm **Parteek Mittal**, an enthusiastic and self-driven developer passionate about solving problems through code. I specialize in **C++** and **Data Structures & Algorithms**, and I'm currently expanding my skills into **full-stack web development**.
 
-I'm a strong believer in consistent learning and love contributing to collaborative projects that reflect real-world use cases. I’ve worked on systems like room management (RBS) and visitor tracking (Guard Watch), and I'm actively solving DSA problems on platforms like Leetcode and GFG.
+I'm a strong believer in consistent learning and love contributing to collaborative projects that reflect real-world use cases. I'm actively solving DSA problems on platforms like Leetcode and GFG.
 
 Currently, I'm:
-- 🚀 Learning backend tech like **Node.js**, **Express**, and **SQL**
+- 🚀 Learning backend tech **Node.js**, **Express**, and **SQL**
 - 🧠 Practicing competitive programming and interview-style problems
 - 🔧 Exploring version control workflows and team collaboration via Git/GitHub
 
