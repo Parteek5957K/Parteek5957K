@@ -1,9 +1,13 @@
-👋 Hi, I'm Parteek
-I'm a passionate developer learning C++, DSA, and Web Development.
+## 👨‍💻 About Me
 
-🔭 I'm currently contributing to collaborative DSA repositories
-🌱 I'm learning backend technologies (Node.js, Express)
-💬 Ask me about C++, Git, and DSA problems
-📫 How to reach me: (www.linkedin.com/in/parteek-mittal/)
-📌 Featured Projects
-(https://leetcode.com/u/Parteek5957K/) - DSA problem collection
+Hi! I'm **Parteek Mittal**, an enthusiastic and self-driven developer passionate about solving problems through code. I specialize in **C++** and **Data Structures & Algorithms**, and I'm currently expanding my skills into **full-stack web development**.
+
+I'm a strong believer in consistent learning and love contributing to collaborative projects that reflect real-world use cases. I’ve worked on systems like room management (RBS) and visitor tracking (Guard Watch), and I'm actively solving DSA problems on platforms like Leetcode and GFG.
+
+Currently, I'm:
+- 🚀 Learning backend tech like **Node.js**, **Express**, and **SQL**
+- 🧠 Practicing competitive programming and interview-style problems
+- 🔧 Exploring version control workflows and team collaboration via Git/GitHub
+
+I'm open to collaborating on meaningful tech projects, especially those that challenge my understanding and push me to grow as a developer.
+
